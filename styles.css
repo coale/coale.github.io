@@ -1,0 +1,103 @@
+body {
+    background-color: #222225;
+    font-family: 'Inconsolata', monospace;
+    color: #e8e9ed;
+}
+
+#container {
+    width: 60%;
+    margin: 0 auto;
+    text-align: justify;
+    font-weight: 400;
+}
+
+#header {
+    padding: 0 10px 10px 0;
+}
+
+#nav {
+    font-variant: small-caps;
+    font-size: 26;
+    margin-bottom: 50px;
+    margin-left: 8px;
+}
+
+ul {
+    list-style-type: none;
+    text-align: left;
+    margin: 0;
+    padding: 20px 0 20px 0;
+}
+
+li {
+    margin: -5px;
+    display: inline;
+    border-left: 2px solid #e8e9ed;
+    padding-right: 18px;
+    padding-left: 18px;
+}
+
+#last {
+    border-right: 2px solid #e8e9ed;
+    padding-right: 18px;
+}
+
+h1 {
+    font-size: 46;
+}
+
+h3 {
+    font-size: 34;
+    padding-bottom: 15px;
+}
+
+p {
+    font-size: 22;
+    line-height: 25px;
+}
+
+em {
+    font-weight: 300;
+}
+
+span, a {
+    font-weight: 900;
+}
+
+span {
+    color: #42b57d;
+}
+
+a {
+    color: #d81860;
+    text-decoration: none;
+}
+
+.back {
+    font-variant: small-caps;
+    font-size: 19px;
+    margin-top: 40px;
+    margin-bottom: 25px;
+}
+
+.box {
+    margin-top: 80px;
+    margin-bottom: 60px;
+    border-bottom: 1px solid #e8e9ed;
+    padding-bottom: 5px;
+}
+
+.end {
+    padding-bottom: 40px;
+}
+
+figure {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+}
+
+figcaption {
+    padding-top: 3px;
+    font-style: italic;
+}
